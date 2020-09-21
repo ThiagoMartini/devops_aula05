@@ -1,0 +1,6 @@
+language : phyton
+python:
+   - "3.4"
+script:
+  - cd src; phyton teste.py
+
